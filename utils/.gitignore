@@ -1,0 +1,6 @@
+# Ignore dataset and model files
+data/
+models/
+__pycache__/
+*.h5
+*.ipynb_checkpoints
